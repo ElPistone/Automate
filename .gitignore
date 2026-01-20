@@ -1,0 +1,28 @@
+# Build directories
+build*/
+bin*/
+release*/
+debug*/
+cmake-build*/
+out*/
+
+# Qt Creator specific
+*.user
+*.qmake.stash
+*.qtc
+
+# IDE stuff
+.vscode/
+.idea/
+*.pro.user
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.app
+*.dmg
+
+# OS files
+*.DS_Store
+Thumbs.db
