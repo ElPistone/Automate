@@ -4,14 +4,14 @@ L'objectif est d'implémenter et visualiser différentes opérations classiques 
 
 ## 🎯 Fonctionnalités
 
-Vérifier si un mot est accepté par un automate
-Trouver l'intersection de deux automates
-Calculer le complémentaire d’un automate
-Déterminiser un automate (NFA → DFA)
-Minimiser un automate
-Tester l’accessibilité des états
-Charger des automates 
-Visualisation basique via l’interface Qt
+- Vérifier si un mot est accepté par un automate
+- Trouver l'intersection de deux automates
+- Calculer le complémentaire d’un automate
+- Déterminiser un automate (NFA → DFA)
+- Minimiser un automate
+- Tester l’accessibilité des états
+- Charger des automates 
+- Visualisation basique via l’interface Qt
 
 ## 🧠 Contexte du projet
 
@@ -26,7 +26,8 @@ Ce travail s'inscrit dans un module universitaire de Théorie des Langages et Au
 
 ## 🛠️ Technologies utilisées
 
-Langage : C++
-Framework : Qt
-IDE : Qt Creator
-Paradigme : Algorithmique + programmation orientée objet
+- Langage : C++
+- Framework : Qt
+- IDE : Qt Creator
+- Paradigme : Algorithmique + programmation orientée objet
+
